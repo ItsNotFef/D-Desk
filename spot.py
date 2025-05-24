@@ -7,7 +7,7 @@ app.secret_key = "una_chiave_super_segreta"  # cambia con una roba tua
 
 CLIENT_ID = "159b7003266f4609aabe6d8790b3a745"
 CLIENT_SECRET = "ce1b344ff1d54a1eb1b96677ac156cd8"
-REDIRECT_URI = "https://tuo-app.render.com/callback"  # Cambia con il tuo URL deployato!
+REDIRECT_URI = "https://d-desk.onrender.com/callback"  # Cambia con il tuo URL deployato!
 
 SCOPE = "user-read-currently-playing user-read-playback-state"
 
